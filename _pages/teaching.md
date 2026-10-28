@@ -9,17 +9,19 @@ Courses taught at the Department of Management Information Systems, Marmara Univ
 
 Graduate
 ======
-* Secure Coding and Software Security (2023–2024)
-* Term Project (Dönem Projesi) (2023–2024)
+Courses taught in the graduate program in Cyber Security.
+
+* Secure Coding and Software Security
+* Term Project (Dönem Projesi)
 
 Undergraduate
 ======
 * DevOps Foundations, Practices and Tools
-* Game Programming (2023–2024)
+* Game Programming
 * Information Systems Project Management
 * Introduction to Algorithms and Data Structures
 * Object Oriented Programming
 * Python for Data Analysis
-* System Analysis and Design (2022–2023)
-* Web Based Application Programming (2022–2023)
+* System Analysis and Design
+* Web Based Application Programming
 * Project

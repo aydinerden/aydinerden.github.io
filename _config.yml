@@ -80,12 +80,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books and Book Chapters'
   manuscripts:
     title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
+  books:
+    title: 'Books and Book Chapters'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -250,6 +250,11 @@ defaults:
       author_profile: true
       share: true
       comments: true
+
+
+# Do not turn the first heading of a page into its title (GitHub Pages default)
+titles_from_headings:
+  enabled: false
 
 
 # Sass/SCSS
