@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +8,7 @@ redirect_from:
 
 I am an Assistant Professor in the Department of Management Information Systems at the Faculty of Business Administration, Marmara University, Istanbul, where I have also served as Vice Dean since 2025. I work in the Software Systems Development division of the department.
 
-I received my Ph.D. and M.A. in Business Administration from Istanbul Bilgi University and my B.Sc. in Textile Engineering from Afyon Kocatepe University. My doctoral dissertation, *Facial Imprint: Effect of Facial Traits and Expressions on Traveler Preferences in Accommodation Sharing Services*, examined how visual cues shape trust on online platforms.
+I received my Ph.D. and M.A. in Business Administration from Istanbul Bilgi University. My doctoral dissertation, *Facial Imprint: Effect of Facial Traits and Expressions on Traveler Preferences in Accommodation Sharing Services*, examined how visual cues shape trust on online platforms.
 
 Research Interests
 ------

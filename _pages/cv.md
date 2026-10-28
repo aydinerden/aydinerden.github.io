@@ -9,14 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-A full, up-to-date CV is available on [Avesis](https://avesis.marmara.edu.tr/14897) ([PDF, English](https://avesis.marmara.edu.tr/14897/indir?languageCode=en) · [PDF, Türkçe](https://avesis.marmara.edu.tr/14897/indir?languageCode=tr)).
+A full, up-to-date academic profile is available on [Avesis](https://avesis.marmara.edu.tr/14897).
 
 Education
 ======
 * **Ph.D. in Business Administration**, Istanbul Bilgi University, Institute of Social Sciences, 2013–2018
   * Dissertation: *Facial Imprint: Effect of Facial Traits and Expressions on Traveler Preferences in Accommodation Sharing Services*
 * **M.A. in Business Administration**, Istanbul Bilgi University, Institute of Social Sciences, 2011–2013
-* **B.Sc. in Textile Engineering**, Afyon Kocatepe University, Faculty of Engineering, 1997–2002
 
 Academic Positions
 ======
