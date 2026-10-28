@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "AYDIN ERDEN / aydinerden.com"
+title                    : "Aydın Erden"
 title_separator          : "-"
-name                     : &name "AYDIN ERDEN"
-description              : &description "personal description"
+name                     : &name "Aydın Erden"
+description              : &description "Asst. Prof. Dr. Aydın Erden, Management Information Systems, Marmara University"
 url                      : https://aydinerden.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aydinerden/aydinerden.github.io"
@@ -23,13 +23,13 @@ repository               : "aydinerden/aydinerden.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpeg"
-  name             : "AYDIN ERDEN"
+  name             : "Asst. Prof. Dr. Aydın Erden"
   pronouns         : # example: "she/her"  
-  bio              : # URL
-  location         : # URL
+  bio              : "Vice Dean, Faculty of Business Administration, Department of Management Information Systems"
+  location         : "Istanbul, Türkiye"
   employer         : "Marmara University"
   uri              : # URL
-  email            : # URL
+  email            : "aydin.erden@marmara.edu.tr"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -40,6 +40,9 @@ author:
   pubmed           : # URL
   researchgate     : # URL
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57372225500"
+  wos              : "https://www.webofscience.com/wos/author/record/ABO-1003-2022"
+  avesis           : "https://avesis.marmara.edu.tr/14897"
+  yoksis           : "https://akademik.yok.gov.tr/AkademikArama/AkademisyenGorevOgrenimBilgileri?islem=direct&authorId=1903460D286DD5AB"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -78,9 +81,9 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Books and Book Chapters'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
@@ -213,16 +216,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -247,15 +241,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -265,23 +250,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 
 # Sass/SCSS

@@ -62,6 +62,15 @@
       {% if author.scopus %}
         <li><a href="{{ author.scopus }}"><i class="ai ai-scopus icon-pad-right"></i>Scopus</a></li>
       {% endif %}
+      {% if author.wos %}
+        <li><a href="{{ author.wos }}"><i class="ai ai-clarivate ai-fw icon-pad-right"></i>Web of Science</a></li>
+      {% endif %}
+      {% if author.avesis %}
+        <li><a href="{{ author.avesis }}"><i class="fas fa-fw fa-graduation-cap icon-pad-right" aria-hidden="true"></i>Avesis</a></li>
+      {% endif %}
+      {% if author.yoksis %}
+        <li><a href="{{ author.yoksis }}"><i class="fas fa-fw fa-id-card icon-pad-right" aria-hidden="true"></i>YÖKSİS</a></li>
+      {% endif %}
 
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
