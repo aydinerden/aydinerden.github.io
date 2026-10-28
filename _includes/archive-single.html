@@ -65,6 +65,9 @@
     {% elsif post.slidesurl %}
       <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% endif %}
+    {% if post.onlineurl or post.avesisurl %}
+      <p>{% if post.onlineurl %}<a href="{{ post.onlineurl }}">View Online</a>{% endif %}{% if post.onlineurl and post.avesisurl %} | {% endif %}{% if post.avesisurl %}<a href="{{ post.avesisurl }}">Avesis Record</a>{% endif %}</p>
+    {% endif %}
 
   </article>
 </div>
