@@ -5,12 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Courses taught at the Department of Management Information Systems, Marmara University.
+Courses taught at the Department of Management Information Systems and in the graduate program in Cyber Security, Marmara University.
 
 Graduate
 ======
-Courses taught in the graduate program in Cyber Security.
-
 * Secure Coding and Software Security
 * Term Project (Dönem Projesi)
 
