@@ -10,7 +10,7 @@ Courses taught at the Department of Management Information Systems and in the gr
 Graduate
 ======
 * Secure Coding and Software Security
-* Term Project (Dönem Projesi)
+* Term Project
 
 Undergraduate
 ======
