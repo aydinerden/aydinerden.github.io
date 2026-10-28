@@ -2,7 +2,7 @@
 
 Personal academic website of Asst. Prof. Dr. Aydın Erden, Department of Management Information Systems, Faculty of Business Administration, Marmara University.
 
-- Website: https://aydinerden.github.io
+- Website: https://aydinerden.com
 - Avesis: https://avesis.marmara.edu.tr/14897
 
 ## Running locally
